@@ -1,4 +1,4 @@
-# cours-exemple
+# Cours exemple
 Ceci est un exemple de cours d'IA en apprentissage non-supervisé.
 
 # Fonctionnement
