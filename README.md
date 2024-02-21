@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/amoreau96/cours-exemple/HEAD)
+
 # Cours exemple
 Ceci est un exemple de cours d'IA en apprentissage non-supervisé.
 
